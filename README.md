@@ -3,7 +3,7 @@
 
 
 
-![Imgur](https://imgur.com/gallery/tRzJLYl)
+(https://imgur.com/gallery/tRzJLYl)
 
 
 
@@ -15,7 +15,6 @@
 
 
 #### After analysing the data, the following insights were obtained:
-After analyzing the data, the following insights were obtained:
 
 Sales have been increasing each year from 2015-2018.
 Furniture has the lowest sales among the categories.
