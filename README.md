@@ -3,7 +3,7 @@
 
 
 
-(https://imgur.com/gallery/tRzJLYl)
+<img width="518" alt="image" src="https://github.com/Blessedtomato/Megastore-Sales/assets/123168685/a3a4a05a-8ca0-48c8-afb1-31529749accb">
 
 
 
