@@ -11,7 +11,7 @@
 #[Link to dataset used](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 
 
-#### An analysis on Megastore Sales in the US from 2015-2019
+#### An analysis on Megastore Sales in the US from 2015-2018
 
 
 #### After analysing the data, the following insights were obtained:
